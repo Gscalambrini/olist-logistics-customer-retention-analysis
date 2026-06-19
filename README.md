@@ -48,5 +48,5 @@ Brazilian E-commerce Dataset disponibilizado pela Olist.
 
 ## Autores
 
-Gustavo 
+Gustavo/n
 Thales
