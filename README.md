@@ -46,6 +46,11 @@ Brazilian E-commerce Dataset disponibilizado pela Olist.
 - images/
 - docs/
 
-## Autores
+## Autor
 
-Gustavo Scalambrini | Thales
+## Autor
+
+**Gustavo Scalambrini**
+
+- GitHub: [Gscalambrini](https://github.com/Gscalambrini)
+- LinkedIn: www.linkedin.com/in/gustavo-scalambrini
