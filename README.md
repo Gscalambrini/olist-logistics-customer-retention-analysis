@@ -47,12 +47,12 @@ Investigar como o desempenho logístico influencia a satisfação dos clientes e
 ## Visualizações
 
 <p align="center">
-  <img src="images/grafico_receita_pedidos.png" width="420" alt="Receita e quantidade de pedidos por mês">
-  <img src="images/grafico_recompra_atraso.png" width="420" alt="Avaliação média por faixa de atraso">
+  <img src="images/relacao_receita_pedidos.png" width="420" alt="Receita e quantidade de pedidos por mês">
+  <img src="images/avaliacoes_atraso.png" width="420" alt="Avaliação média por faixa de atraso">
 </p>
 <p align="center">
-  <img src="images/grafico_recompra_categoria.png" width="420" alt="Taxa de recompra por categoria de produto">
-  <img src="images/grafico_recompra_ticket.png" width="420" alt="Taxa de recompra por faixa de ticket">
+  <img src="images/recompra_categorias.png" width="420" alt="Taxa de recompra por categoria de produto">
+  <img src="images/recompra_ticket.png" width="420" alt="Taxa de recompra por faixa de ticket">
 </p>
 
 Todos os gráficos completos estão disponíveis em [images/](images/) e foram gerados a partir dos notebooks em [notebooks/](notebooks/).
