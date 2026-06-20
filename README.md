@@ -55,7 +55,7 @@ Investigar como o desempenho logístico influencia a satisfação dos clientes e
   <img src="olist-logistics-customer-retention-analysis/images/recompra_ticket.png" width="420" alt="Taxa de recompra por faixa de ticket">
 </p>
 
-*Todos os gráficos completos estão disponíveis em [`images/`](images/) e foram gerados a partir do notebook em [`notebook/`](notebook/).*
+*Todos os gráficos completos estão disponíveis em [`images/`](images/) e foram gerados a partir do notebook em [`notebook/`](olist-logistics-customer-retention-analysis/notebook/).*
 
 ## Estrutura do Projeto
 
@@ -75,7 +75,7 @@ Investigar como o desempenho logístico influencia a satisfação dos clientes e
    ```bash
    pip install pandas numpy matplotlib seaborn jupyter scipy
    ```
-3. Baixe o dataset do [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) e posicione os arquivos `.csv` na pasta esperada pelo notebook (ver instruções no início de cada notebook em [`notebook/`](notebook/)).
+3. Baixe o dataset do [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) e posicione os arquivos `.csv` na pasta esperada pelo notebook (ver instruções no início de cada notebook em [`notebook/`](olist-logistics-customer-retention-analysis/notebook/)).
 4. Execute o notebook em ordem a partir de `notebook/`:
    ```bash
    jupyter notebook
