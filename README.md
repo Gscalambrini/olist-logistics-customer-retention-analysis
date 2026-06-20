@@ -47,7 +47,7 @@ Investigar como o desempenho logístico influencia a satisfação dos clientes e
 ## Visualizações
 
 <p align="center">
-  <img src="images/relacao_receita_pedidos.png" width="420" alt="Receita e quantidade de pedidos por mês">
+  <img src="olist-logistics-customer-retention-analysis/images/relacao_receita_pedidos.png" width="420" alt="Receita e quantidade de pedidos por mês">
   <img src="images/avaliacoes_atraso.png" width="420" alt="Avaliação média por faixa de atraso">
 </p>
 <p align="center">
