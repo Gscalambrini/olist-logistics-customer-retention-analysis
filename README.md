@@ -55,11 +55,11 @@ Investigar como o desempenho logístico influencia a satisfação dos clientes e
   <img src="olist-logistics-customer-retention-analysis/images/recompra_ticket.png" width="420" alt="Taxa de recompra por faixa de ticket">
 </p>
 
-*Todos os gráficos completos estão disponíveis em [`images/`](images/) e foram gerados a partir dos notebooks em [`notebooks/`](notebooks/).*
+*Todos os gráficos completos estão disponíveis em [`images/`](images/) e foram gerados a partir do notebook em [`notebook/`](notebook/).*
 
 ## Estrutura do Projeto
 
-- **`notebooks/`** — Notebooks Jupyter com a análise exploratória e os testes estatísticos
+- **`notebook/`** — Notebook Jupyter com a análise exploratória e os testes estatísticos
 - **`images/`** — Gráficos exportados utilizados na análise e no relatório executivo
 - **`docs/`** — Relatório executivo e documentação complementar
 - **`README.md`** — este arquivo
@@ -75,8 +75,8 @@ Investigar como o desempenho logístico influencia a satisfação dos clientes e
    ```bash
    pip install pandas numpy matplotlib seaborn jupyter scipy
    ```
-3. Baixe o dataset do [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) e posicione os arquivos `.csv` na pasta esperada pelos notebooks (ver instruções no início de cada notebook em [`notebooks/`](notebooks/)).
-4. Execute os notebooks em ordem a partir de `notebooks/`:
+3. Baixe o dataset do [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) e posicione os arquivos `.csv` na pasta esperada pelo notebook (ver instruções no início de cada notebook em [`notebook/`](notebook/)).
+4. Execute o notebook em ordem a partir de `notebook/`:
    ```bash
    jupyter notebook
    ```
